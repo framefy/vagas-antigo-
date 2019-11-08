@@ -1,9 +1,14 @@
-# Vagas na Framefy
+# Vagas abertas na Framefy
 
 A Framefy é uma plataforma de soluções para potencializar a produção de vídeos de maneira simples, acessível e personalizada, tanto para empresas como profissionais de criação ao redor do mundo.
 
-Se você quiser se inscrever no processo seletivo para uma dessas vagas, basta [criar uma Issue](https://github.com/framefy/vagas/issues/new) nesse repositório.
+Estamos contratando!
 
+Se você quiser se inscrever no processo seletivo para uma dessas vagas, envie seu curriculum para [talent@framefy.com](mailto:talent@framefy.com), indicando em qual(is) vaga(s) se interessou.
+
+Abaixo, uma descrição das posições que estão abertas atualmente:
+
+---
 ## Vaga React Front-End Engineer
 
 
@@ -66,3 +71,5 @@ Se você quiser se inscrever no processo seletivo para uma dessas vagas, basta [
 * Noções de modelagem de dados, principalmente NoSQL e filas de mensageria;
 * Experiência com elasticsearch ou outro indexador de conteúdo;
 * Noções gerais da Teoria dos Grafos.
+
+---
