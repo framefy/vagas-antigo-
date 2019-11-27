@@ -2,9 +2,9 @@
 
 A Framefy é uma plataforma de soluções para potencializar a produção de vídeos de maneira simples, acessível e personalizada, tanto para empresas como profissionais de criação ao redor do mundo.
 
-Estamos contratando!
+E, estamos contratando!
 
-Se você quiser se inscrever no processo seletivo para uma dessas vagas, envie seu curriculum para [talent@framefy.com](mailto:talent@framefy.com), indicando em qual(is) vaga(s) se interessou.
+Se você quiser se inscrever para o processo seletivo de alguma dessas vagas, envie seu currículo para [talent@framefy.com](mailto:talent@framefy.com), indicando em qual(is) vaga(s) se interessou.
 
 Abaixo, uma descrição das posições que estão abertas atualmente:
 
