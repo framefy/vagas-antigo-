@@ -9,7 +9,7 @@ Se você quiser se inscrever para o processo seletivo de alguma dessas vagas, en
 Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ---
-## Vaga React Front-End Engineer
+## Vaga JavaScript Front-End Engineer
 
 
 **Nível:** Pleno<br>
@@ -18,11 +18,11 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ### Requerimentos
 * Proeficiência em JavaScript, CSS e HTML5;
-* Experiência sólida com React.js;
 * Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
 
 ### Diferenciais
+* Experiência com React.js;
 * Experiência com uso extensivo de Redux;
 * Habilidade de construir testes ao longo do desenvolvimento (TDD);
 * Conhecimento em construção de testes E2E;
@@ -50,7 +50,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ---
 
-## Vaga Full Stack Engineer - Node.js / React
+## Vaga Full Stack Engineer - Node.js / JavaScript
 
 **Nível:** Pleno<br>
 **Modelo de contratação:** PJ<br>
@@ -59,11 +59,11 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 ### Requerimentos
 * Proeficiência em JavaScript e/ou TypeScript, CSS e HTML5;
 * Experiência em construção de APIs RESTful usando Node.js;
-* Experiência sólida com React.js;
 * Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
 
 ### Diferenciais
+* Experiência com React.js;
 * Experiência com uso extensivo de Redux;
 * Habilidade de construir testes ao longo do desenvolvimento (TDD);
 * Conhecimento em construção de testes E2E;
