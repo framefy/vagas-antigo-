@@ -19,7 +19,8 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 ### Requerimentos
 * Proeficiência em JavaScript, CSS e HTML5;
 * Apreço por boas práticas e código limpo;
-* Facilidade com Scrum, code review e trabalho em equipe.
+* Facilidade com Scrum, code review e trabalho em equipe;
+* Conhecimento em Shell Script.
 
 ### Diferenciais
 * Experiência com React.js;
@@ -30,7 +31,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ---
 
-## Vaga Node.js Back-End Engineer
+## Vaga JavaScript Back-End Engineer
 
 **Nível:** Pleno<br>
 **Modelo de contratação:** PJ<br>
@@ -38,9 +39,9 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ### Requerimentos
 * Proeficiência em JavaScript e/ou TypeScript;
-* Experiência em construção de APIs RESTful usando Node.js;
 * Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
+* Conhecimento em Shell Script.
 
 ### Diferenciais
 * Habilidade de construir testes ao longo do desenvolvimento (TDD);
@@ -50,7 +51,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ---
 
-## Vaga Full Stack Engineer - Node.js / JavaScript
+## Vaga Full Stack Engineer - JavaScript
 
 **Nível:** Pleno<br>
 **Modelo de contratação:** PJ<br>
