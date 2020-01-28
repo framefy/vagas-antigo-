@@ -18,9 +18,10 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ### Requerimentos
 * Proeficiência em JavaScript, CSS e HTML5;
+* Conhecimento em Shell Script;
+* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
 * Apreço por boas práticas e código limpo;
-* Facilidade com Scrum, code review e trabalho em equipe;
-* Conhecimento em Shell Script.
+* Facilidade com Scrum, code review e trabalho em equipe.
 
 ### Diferenciais
 * Experiência com React.js;
@@ -39,10 +40,11 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ### Requerimentos
 * Proeficiência em JavaScript e/ou TypeScript;
-* Apreço por boas práticas e código limpo;
+* Conhecimento em Shell Script;
+* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
 * Experiência em construção de APIs RESTful usando Node.js;
+* Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
-* Conhecimento em Shell Script.
 
 ### Diferenciais
 * Habilidade de construir testes ao longo do desenvolvimento (TDD);
@@ -62,6 +64,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 * Proeficiência em JavaScript e/ou TypeScript, CSS e HTML5;
 * Experiência em construção de APIs RESTful usando Node.js;
 * Conhecimento em Shell Script;
+* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
 * Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
 
