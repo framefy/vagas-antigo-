@@ -40,6 +40,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 ### Requerimentos
 * Proeficiência em JavaScript e/ou TypeScript;
 * Apreço por boas práticas e código limpo;
+* Experiência em construção de APIs RESTful usando Node.js;
 * Facilidade com Scrum, code review e trabalho em equipe.
 * Conhecimento em Shell Script.
 
@@ -60,6 +61,7 @@ Abaixo, uma descrição das posições que estão abertas atualmente:
 ### Requerimentos
 * Proeficiência em JavaScript e/ou TypeScript, CSS e HTML5;
 * Experiência em construção de APIs RESTful usando Node.js;
+* Conhecimento em Shell Script;
 * Apreço por boas práticas e código limpo;
 * Facilidade com Scrum, code review e trabalho em equipe.
 
