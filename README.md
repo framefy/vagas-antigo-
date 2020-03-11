@@ -9,73 +9,15 @@ Se você quiser se inscrever para o processo seletivo de alguma dessas vagas, en
 Abaixo, uma descrição das posições que estão abertas atualmente:
 
 ---
-## Vaga JavaScript Front-End Engineer
+## DESENVOLVEDOR Full Stack - React/NodeJS
 
 
-**Nível:** Pleno<br>
-**Modelo de contratação:** PJ<br>
-**Indústria:** Tecnologia da Informação e Serviços<br>
+### Conhecimentos necessários
+* NodeJS;
+* React;
 
-### Requerimentos
-* Proeficiência em JavaScript, CSS e HTML5;
-* Conhecimento em Shell Script;
-* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
-* Apreço por boas práticas e código limpo;
-* Facilidade com Scrum, code review e trabalho em equipe.
-
-### Diferenciais
-* Experiência com React.js;
-* Experiência com uso extensivo de Redux;
-* Habilidade de construir testes ao longo do desenvolvimento (TDD);
-* Conhecimento em construção de testes E2E;
-* Intimidade com os avanços dos Web Standards.
-
----
-
-## Vaga JavaScript Back-End Engineer
-
-**Nível:** Pleno<br>
-**Modelo de contratação:** PJ<br>
-**Indústria:** Tecnologia da Informação e Serviços<br>
-
-### Requerimentos
-* Proeficiência em JavaScript e/ou TypeScript;
-* Conhecimento em Shell Script;
-* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
-* Experiência em construção de APIs RESTful usando Node.js;
-* Apreço por boas práticas e código limpo;
-* Facilidade com Scrum, code review e trabalho em equipe.
-
-### Diferenciais
-* Habilidade de construir testes ao longo do desenvolvimento (TDD);
-* Conhecimento em modelagem de dados, principalmente NoSQL e filas de mensageria;
-* Experiência com elasticsearch ou outro indexador de conteúdo;
-* Noções gerais da Teoria dos Grafos.
-
----
-
-## Vaga Full Stack Engineer - JavaScript
-
-**Nível:** Pleno<br>
-**Modelo de contratação:** PJ<br>
-**Indústria:** Tecnologia da Informação e Serviços<br>
-
-### Requerimentos
-* Proeficiência em JavaScript e/ou TypeScript, CSS e HTML5;
-* Experiência em construção de APIs RESTful usando Node.js;
-* Conhecimento em Shell Script;
-* Já ter trabalhado com soluções AWS (API Gateway, Lambda, etc...);
-* Apreço por boas práticas e código limpo;
-* Facilidade com Scrum, code review e trabalho em equipe.
-
-### Diferenciais
-* Experiência com React.js;
-* Experiência com uso extensivo de Redux;
-* Habilidade de construir testes ao longo do desenvolvimento (TDD);
-* Conhecimento em construção de testes E2E;
-* Intimidade com os avanços dos Web Standards.
-* Noções de modelagem de dados, principalmente NoSQL e filas de mensageria;
-* Experiência com elasticsearch ou outro indexador de conteúdo;
-* Noções gerais da Teoria dos Grafos.
+### Conhecimento desejável
+* Serverless;
+* AWS SQS/SNS;
 
 ---
